@@ -13,6 +13,7 @@ ENV DEPENDENCIAS  \
     php5.6-json \
     php5.6-gd \
     php5.6-odbc \
+    php5.6-intl \
     php5.6-pgsql \
     php5.6-sqlite \
     php5.6-ps \
